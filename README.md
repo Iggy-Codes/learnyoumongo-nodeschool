@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-My solution for the exercises from [NodeSchool](https://github.com/evanlucas/learnyoumongo)
+My solution for [NodeSchool MongoDB exercises](https://github.com/evanlucas/learnyoumongo)
 
 ## Motivation
 
